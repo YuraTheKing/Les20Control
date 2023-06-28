@@ -1,0 +1,14 @@
+.hero {
+    background-image: url(../images/bgsnow.jpg);
+    height: 1000px; 
+    position: fixed;
+    width: 100%;
+}
+
+.mt-mod {
+    margin-top: 300px;
+}
+
+.ml-50 {
+    margin-left: 150px;
+}
